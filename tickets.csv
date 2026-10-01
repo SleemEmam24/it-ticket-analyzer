@@ -1,0 +1,13 @@
+ticket_id,category,priority,status,resolution_hours,description
+1001,Network,High,Resolved,5,Office Wi-Fi disconnected
+1002,Hardware,Medium,Resolved,12,Laptop screen flickering
+1003,Account,Low,Resolved,1,Password reset requested
+1004,Security,High,Open,,Suspicious phishing email reported
+1005,Software,Medium,Resolved,3,Email application crashing
+1006,Network,High,Open,,VPN connection failing
+1007,Hardware,Low,Resolved,8,Printer not responding
+1008,Security,High,Resolved,6,Malware alert on workstation
+1009,Account,Medium,Open,,Employee cannot access account
+1010,Software,Low,Resolved,2,Software installation requested
+1011,Network,Medium,Resolved,4,Slow internet connection
+1012,Security,High,Open,,Unexpected MFA prompts reported
